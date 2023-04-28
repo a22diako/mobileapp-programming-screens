@@ -1,6 +1,6 @@
 
 
-Rapport 4
+Rapport 4.
 
 Jag har lagt till en second activity vilket gör det möjligt att gå från en sida till en annan genom en knapp som leder till second activity och en data string som följer med.
 
